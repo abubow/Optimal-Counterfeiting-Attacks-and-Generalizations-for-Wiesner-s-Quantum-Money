@@ -1,0 +1,199 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{RBKSC04}
+
+\bibitem[Aar09]{Aar09}
+S.~Aaronson.
+\newblock Quantum copy-protection and quantum money.
+\newblock In {\em Proceedings of the 24th Annual IEEE Conference on
+  Computational Complexity}, pages 229--242, 2009.
+
+\bibitem[AC12]{AC12}
+S.~Aaronson and P.~Christiano.
+\newblock Quantum money from hidden subspaces.
+\newblock In preparation, 2012.
+
+\bibitem[ADM02]{AudenaertD02}
+K.~Audenaert and B.~De~Moor.
+\newblock Optimizing completely positive maps using semidefinite programming.
+\newblock {\em Physical Review A}, 65:030302, 2002.
+
+\bibitem[AE07]{AmbE07}
+A.~Ambainis and J.~Emerson.
+\newblock Quantum $t$-designs: $t$-wise independence in the quantum world.
+\newblock In {\em Proceedings of the 22nd Annual IEEE conference on
+  Computational Complexity}, pages 129--140, 2007.
+
+\bibitem[BB84]{BennettB84}
+C.~Bennett and G.~Brassard.
+\newblock Quantum cryptography: Public key distribution and coin tossing.
+\newblock In {\em Proceedings of the IEEE International Conference on
+  Computers, Systems, and Signal Processing}, pages 175--179, 1984.
+
+\bibitem[BCDM00]{BruCDM00}
+D.~Bru\ss, M.~Cinchetti, G.~D'Ariano, and C.~Macchiavello.
+\newblock Phase covariant quantum cloning.
+\newblock {\em Physical Review A}, 62:012302, 2000.
+
+\bibitem[BH96]{BuzekH96}
+V.~Bu\v{z}ek and M.~Hillery.
+\newblock Quantum copying: Beyond the no-cloning theorem.
+\newblock {\em Physical Review A}, 54(3):1844--1852, 1996.
+
+\bibitem[BV04]{BoydV04}
+S.~Boyd and L.~Vandenberghe.
+\newblock {\em Convex Optimization}.
+\newblock Cambridge University Press, 2004.
+
+\bibitem[CF06]{CerfF06}
+N.~Cerf and J.~Fiur\'{a}\v{s}ek.
+\newblock {\em Optical quantum cloning}, volume~49 of {\em Progress in Optics},
+  chapter~6, pages 455--545.
+\newblock Elsevier, 2006.
+
+\bibitem[Cho75]{Choi75}
+M.-D. Choi.
+\newblock Completely positive linear maps on complex matrices.
+\newblock {\em Linear Algebra and Its Applications}, 10(3):285--290, 1975.
+
+\bibitem[dK02]{deKlerk02}
+E.~de~Klerk.
+\newblock {\em Aspects of Semidefinite Programming -- Interior Point Algorithms
+  and Selected Applications}, volume~65 of {\em Applied Optimization}.
+\newblock Kluwer Academic Publishers, Dordrecht, 2002.
+
+\bibitem[EMV03]{EldarMV03}
+Y.~Eldar, A.~Megretski, and G.~Verghese.
+\newblock Designing optimal quantum detectors via semidefinite programming.
+\newblock {\em IEEE Transactions on Information Theory}, 49(4):1007--1012,
+  2003.
+
+\bibitem[EW01]{EggelingW01}
+T.~Eggeling and R.~Werner.
+\newblock Separability properties of tripartite states with {$U\otimes U
+  \otimes U$} symmetry.
+\newblock {\em Physical Review A}, 63(4):042111, 2001.
+
+\bibitem[FGH{\etalchar{+}}10]{FarhiGHLS10}
+E.~Farhi, D.~Gosset, A.~Hassidim, A.~Lutomirski, and P.~Shor.
+\newblock Quantum money from knots.
+\newblock Available as arXiv.org e-Print 1004.5127, 2010.
+
+\bibitem[Gav11]{Gav11}
+D.~Gavinsky.
+\newblock Quantum money with classical verification.
+\newblock Available as arXiv.org e-Print 1109.0372, 2011.
+
+\bibitem[Got02]{Gott02}
+D.~Gottesman.
+\newblock Uncloneable encryption.
+\newblock Available as arXiv.org e-Print quant-ph/0210062, 2002.
+
+\bibitem[GW07]{GutoskiW07}
+G.~Gutoski and J.~Watrous.
+\newblock Toward a general theory of quantum games.
+\newblock In {\em Proceedings of the 39th Annual ACM Symposium on Theory of
+  Computing}, pages 565--574, 2007.
+
+\bibitem[Jam72]{Jamiolkowski72}
+A.~Jamio{\l}kowski.
+\newblock Linear transformations which preserve trace and positive
+  semidefiniteness of operators.
+\newblock {\em Reports on Mathematical Physics}, 3(4):275--278, 1972.
+
+\bibitem[LAF{\etalchar{+}}10]{LAFGHKS09}
+A.~Lutomirski, S.~Aaronson, E.~Farhi, D.~Gosset, A.~Hassidim, J.~Kelner, and
+  P.~Shor.
+\newblock Breaking and making quantum money: toward a new quantum cryptographic
+  protocol.
+\newblock In {\em Proceedings of Innovations in Computer Science (ICS)}, pages
+  20--31, 2010.
+
+\bibitem[Lov03]{Lovasz03}
+L.~Lov\'asz.
+\newblock Semidefinite programs and combinatorial optimization.
+\newblock {\em Recent Advances in Algorithms and Combinatorics}, 2003.
+
+\bibitem[LSP98]{LoSP98}
+H.~Lo, T.~Spiller, and S.~Popescu.
+\newblock {\em Introduction to Quantum Computation and Information}.
+\newblock World Scientific Publishing Company, 1998.
+
+\bibitem[Lut10]{Lutomirski10}
+A.~Lutomirski.
+\newblock An online attack against {Wiesner's} quantum money.
+\newblock Available as arXiv.org e-Print 1010.0256, 2010.
+
+\bibitem[May01]{May01}
+D.~Mayers.
+\newblock Unconditional security in quantum cryptography.
+\newblock {\em Journal of the ACM}, 48:351--406, 2001.
+
+\bibitem[MS07]{MittalS07}
+R.~Mittal and M.~Szegedy.
+\newblock Product rules in semidefinite programming.
+\newblock In {\em Fundamentals of Computation Theory}, volume 4639 of {\em
+  Lecture Notes in Computer Science}, pages 435--445. Springer-Verlag, 2007.
+
+\bibitem[MW11]{MolinaW11}
+A.~Molina and J.~Watrous.
+\newblock Hedging bets with correlated quantum strategies.
+\newblock Available as arXiv.org e-Print 1104.1140, 2011.
+
+\bibitem[NC00]{NielsenC00}
+M.~A. Nielsen and I.~L. Chuang.
+\newblock {\em Quantum Computation and Quantum Information}.
+\newblock Cambridge University Press, 2000.
+
+\bibitem[PYJ{\etalchar{+}}11]{PYJLC11}
+F.~Pastawski, N.~Y. Yao, L.~Jiang, M.~D. Lukin, and J.~I. Cirac.
+\newblock Unforgeable noise-tolerant quantum tokens.
+\newblock Available as arXiv.org e-Print 1112.5456, 2011.
+
+\bibitem[RBKSC04]{RenesBSC04}
+J.~Renes, R.~Blume-Kohout, A.~Scott, and C.~Caves.
+\newblock Symmetric informationally complete quantum measurements.
+\newblock {\em Journal of Mathematical Physics}, 45:2171--2180, 2004.
+
+\bibitem[SP00]{ShorP00}
+P.~Shor and J.~Preskill.
+\newblock Simple proof of security of the {BB84} quantum key distribution
+  protocol.
+\newblock {\em Physical Review Letters}, 85(2):441--444, 2000.
+
+\bibitem[TR11]{TomR11}
+M.~Tomamichel and R.~Renner.
+\newblock Uncertainty relation for smooth entropies.
+\newblock {\em Physical Review Letters}, 106:110506, 2011.
+
+\bibitem[VB96]{VandenbergheB96}
+L.~Vandenberghe and S.~Boyd.
+\newblock Semidefinite programming.
+\newblock {\em SIAM Review}, 38(1):49--95, 1996.
+
+\bibitem[VW11]{VW11}
+T.~Vidick and S.~Wehner.
+\newblock Does ignorance of the whole imply ignorance of the parts? {Large}
+  violations of noncontextuality in quantum theory.
+\newblock {\em Physical Review Letters}, 107:030402, 2011.
+
+\bibitem[Wat11]{WatrousNotes}
+J.~Watrous.
+\newblock Lecture notes on {Theory} of {Quantum} {Information}.
+\newblock Available at \url{http://www.cs.uwaterloo.ca/~watrous/CS766/}, 2011.
+
+\bibitem[Wer98]{Werner98}
+R.~Werner.
+\newblock Optimal cloning of pure states.
+\newblock {\em Physical Review A}, 58:1827--1832, 1998.
+
+\bibitem[Wie83]{Wiesner83}
+S.~Wiesner.
+\newblock Conjugate coding.
+\newblock {\em SIGACT News}, 15(1):78--88, 1983.
+
+\bibitem[WZ82]{WoottersZ82}
+W.~Wootters and W.~Zurek.
+\newblock A single quantum state cannot be cloned.
+\newblock {\em Nature}, 299:802--803, 1982.
+
+\end{thebibliography}
